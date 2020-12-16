@@ -1,4 +1,6 @@
-# Picker
+# Picker  
+
+*If u want to clone the app, use Phase 1 branch, the code is right there.
 
 Abstract:
 
